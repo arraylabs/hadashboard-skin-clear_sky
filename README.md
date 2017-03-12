@@ -1,6 +1,8 @@
 # Clear Sky Skin
 Custom skin for HADashboard 2 Beta2. This is a work in progress.
 
+![alt tag](/clear_sky.jpg)
+
 ##Block Colors
 
 To set individual blocks to different colors use the color variables on the widget_style line. For example:
