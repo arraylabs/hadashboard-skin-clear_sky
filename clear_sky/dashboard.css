@@ -164,3 +164,9 @@ h3 {
 {
   top: 52px !important;
 }
+
+.state_text
+{
+  text-transform: capitalize;
+  font-weight: 400;
+}
